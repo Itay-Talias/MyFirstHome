@@ -1,0 +1,26 @@
+.movie-info {
+    width: 630px;
+    height: 480px;
+    background-color: rgba(49, 49, 49, 0.8);
+    border-radius: 20px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+.img-info {
+    margin: 10px;
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
+.text-info {
+    color: aliceblue;
+    text-align: center;
+    width: 300px;
+}
+.desc-info {
+    color: aliceblue;
+    width: 300px;
+    float: right;
+}

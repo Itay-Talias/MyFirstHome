@@ -1,0 +1,15 @@
+#title-catalog {
+    text-align: center;
+    color: whitesmoke;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.title {
+    color: aliceblue;
+}
+
+.budget {
+    color: aliceblue;
+    float: right;
+}
